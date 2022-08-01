@@ -1,0 +1,15 @@
+==================================================
+              Lotsch BETSI - Summary              
+==================================================
+  Fitting set    5..23
+  Fitting range  0.000219028...0.125692
+  Slope          45.19 g mmol-1
+  Intercept      0.55 g mmol-1
+  R2             0.989205
+
+  as(BET)    1869.82 m2g-1
+  C          83.49
+  nm(BET)    21.87 mmol g-1
+  p/p0(BET)  0.098647
+  p/p0(exp)  0.098413
+  Rel. error 0.24 %
