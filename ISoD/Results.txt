@@ -1,0 +1,137 @@
+Scan File                              2Theta    Counts
+=======================================================
+HSA09                                   5.030       582
+HSC006A                                 9.440       487
+HSC0075                                 5.150      2082
+                                        6.215      2412
+HSC010                                  6.155       562
+HSC010_Plasma                           6.170      1520
+HSC010_ranges_combined                  6.155      1095
+HSC011_Kap_nicht_hochgenug_gefuelllt    5.225       289
+HSC026_Soxhlet                          8.525       305
+                                        9.950       241
+HSC026_nach410C                         8.600       270
+HSC026_nach410C_ranges_combined         8.600       523
+HSC026_nachH2O                          8.615       221
+HSC026_nachH2O_ranges_combined          8.615       426
+HSC026_nach_Photokat.                   8.630       282
+HSC031                                  8.240       321
+HSC032                                  5.105       738
+HSC033                                  8.525       397
+                                        9.935       377
+HSC034_extraktion                       8.510       358
+                                        9.815       350
+HSC035                                  8.660       408
+                                        9.980       368
+HSC036_Blindprobe                       8.990      4870
+HSC039_2                                7.295       930
+HSC039_AC3                              7.310      1049
+HSC041                                  6.125       626
+HSC054                                  6.140      7011
+HSC062                                  7.295       890
+                                        8.855      1073
+                                        9.980       389
+HSC062_Rueck                            8.030      2274
+                                        9.050      1419
+HSC064_Rueck                            8.090       693
+                                        9.215       434
+HSC067                                  8.165       685
+HSC070                                  8.795      5096
+HSC072                                  9.710       432
+HSC074                                  6.320       424
+HSC074_nPC                              5.060      1168
+                                        6.275      1011
+HSC075_2                                6.215      1425
+                                        8.750       565
+                                        9.935       666
+HSC076                                  6.230      1356
+                                        9.920       520
+HSC077                                  6.230       767
+                                        8.705       363
+                                        9.935       361
+HSC077_nPC                              6.230       653
+HSC079                                  8.495       339
+                                        9.980       342
+HSC083                                  6.215       591
+HSC084                                  6.230      1567
+                                        9.815       476
+HSC086                                  6.245      1484
+                                        8.675       786
+                                        9.980      1038
+HSC087                                  6.230       862
+                                        9.890       466
+HSC087_gewII                            6.425       767
+                                        9.830       653
+HSC093                                  5.105      1258
+HSC094_gew                              9.005      3346
+HSC094_gew_ranges_combined              9.005      6576
+HSC095                                  6.230       671
+HSC134                                  7.970      1195
+                                        9.980       792
+HSC196                                  7.970       824
+                                        9.890       260
+HSC196_NM                               7.970      1907
+                                        9.815       674
+HSC196_NM_ranges_combined               7.970     15426
+HSC208                                  7.970       773
+                                        9.965       350
+=======================================================
+Ag_Melonat                                ---       ---
+Ag_Melonat_2                              ---       ---
+HSC005                                    ---       ---
+HSC005II                                  ---       ---
+HSC005III                                 ---       ---
+HSC005III_ranges_combined                 ---       ---
+HSC005IIIcombined                         ---       ---
+HSC005IIIcombined_ranges_combined         ---       ---
+HSC005_ranges_combined                    ---       ---
+HSC006B                                   ---       ---
+HSC006B_ranges_combined                   ---       ---
+HSC018                                    ---       ---
+HSC023                                    ---       ---
+HSC023_ranges_combined                    ---       ---
+HSC034                                    ---       ---
+HSC040                                    ---       ---
+HSC044                                    ---       ---
+HSC047                                    ---       ---
+HSC047_Sublimat                           ---       ---
+HSC052                                    ---       ---
+HSC055                                    ---       ---
+HSC058                                    ---       ---
+HSC059                                    ---       ---
+HSC065                                    ---       ---
+HSC069                                    ---       ---
+HSC071                                    ---       ---
+HSC072_ranges_combined                    ---       ---
+HSC073                                    ---       ---
+HSC073_ranges_combined                    ---       ---
+HSC076_nSaeure                            ---       ---
+HSC078                                    ---       ---
+HSC080                                    ---       ---
+HSC081_kurzgemessen                       ---       ---
+HSC085                                    ---       ---
+HSC089                                    ---       ---
+HSC090                                    ---       ---
+HSC091                                    ---       ---
+HSC091_gew                                ---       ---
+HSC092                                    ---       ---
+HSC094_ungew                              ---       ---
+HSC206                                    ---       ---
+=======================================================
+
+Skipped:
+./xrd_data/HSC010_Rn.xyd
+
+
+Parameter                                      Value
+====================================================
+2Theta range (in degrees)                   5.0-10.0
+Normalized peak detection limit                  0.1
+Minimum relative peak intensity over mean        1.2
+Minimum peak distance (in degrees)               1.0
+Minimum counts                                   200
+====================================================
+
+
+ISoD Sorts Diffractograms
+© Copyright 2017 Alexander M. Pütz (a.puetz@fkf.mpg.de), Department Nanochemistry, Max Planck Institute for Solid State Research, Heisenbergstr. 1, 70569 Stuttgart, Germany

@@ -1,0 +1,55 @@
+﻿experiment,title,catalyst_amount,re_mass_pct,flow_rate,H2_correction_factor,CO_correction_factor
+421,"Re@PTTA-Bpy + Ru(bpy)$_3$, Pd impurity",5.05,11.6,20,1,1
+422,"PTTA-Bpy + Ru(bpy)$_3$, Pd impurity",5.1,0,20,1,1
+423,PTTA-Bpy + Ru(bpy)$_3$,5.04,0,20,1,1
+424,"Re@TAPB-Bpy + Ru(bpy)$_3$, ACN/TEOA 5:1",5.01,10.3,20,1,1
+425,"Re@TAPB-Bpy + Ru(bpy)$_3$, ACN/TEOA 12:1",5.05,10.3,20,1,1
+426,"Re@TAPB-Bpy + Ru(bpy)$_3$, ACN/TEOA 24:1",5,10.3,20,1,1
+427,"Re@TAPB-Bpy + Ru(bpy)$_3$, ACN/TEOA 49:1",5.03,10.3,20,1,1
+428,"Re@TAPT-Bpy + Ru(bpy)$_3$, ACN/TEOA 5:1",5.01,12.1,20,1,1
+429,"Re@TAPT-Bpy + Ru(bpy)$_3$, ACN/TEOA 12:1",4.96,12.1,20,1,1
+430,"Re@TAPT-Bpy + Ru(bpy)$_3$, ACN/TEOA 24:1",4.96,12.1,20,1,1
+431,"Re@TAPT-Bpy + Ru(bpy)$_3$, ACN/TEOA 49:1",5.08,12.1,20,1,1
+432,"PTTA-Bpy, no Ru(bpy)$_3$, Pd impurity",5.05,0,20,1,1
+434,"Re@PTTA-Bpy + Ru(bpy)$_3$, ACN/TEOA/MeOH 24:2:1",5,12.1,20,1,1
+435,"Re@PTTA-Bpy + Ru(bpy)$_3$, ACN/TEOA 5:1",4.99,9.6,20,1,1
+436,"Re@PTTA-Bpy + Ru(bpy)$_3$, ACN/TEOA 12:1",4.99,9.6,20,1,1
+437,"Re@PTTA-Bpy + Ru(bpy)$_3$, ACN/TEOA 24:1",5,9.6,20,1,1
+438,"Re@PTTA-Bpy + Ru(bpy)$_3$, ACN/TEOA 49:1",5.01,9.6,20,1,1
+439,Re@TAPB-Bpy + TpDTz COF,5.05,10.3,20,1,1
+440,"Re@TAPB-Bpy + Ru(bpy)$_3$, 0.25 eq.",5.01,6.5,20,1,1
+441,"Re@TAPB-Bpy + Ru(bpy)$_3$, 1.00 eq.",5.02,13.4,20,1,1
+442,"Re@TAPB-Bpy + Ru(bpy)$_3$, 0.50 eq.",5.03,10.3,20,1,1
+443,"Re@TAPB-Bpy, no Ru(bpy)$_3$",5,10.3,20,1,1
+444,"Re@PTTA-Bpy + Ru(bpy)$_3$, DMF/TEOA 5:1",5.01,9.6,20,1,1
+445,"Re@PTTA-Bpy + Ru(bpy)$_3$, DMF/TEOA 12:1",4.96,9.6,20,1,1
+448,"Re@TAPT-Bpy + Ru(bpy)$_3$, no sCO$_2$",5.03,12,20,1,1
+451,"Re@TAPT-Bpy, no Ru(bpy)$_3$",5.01,12.1,20,1,1
+450,"Re(dmb)(CO)$_3$Cl + Ru(bpy)$_3$, ACN/TEOA 24:1",1.4,38,20,1,1
+453,"Re@PTTA-Bpy, no Ru(bpy)$_3$",5,9.6,20,1,1
+458,"Re(dmb)(CO)$_3$Cl + Ru(bpy)$_3$, ACN/TEOA 12:1",1.4,38,20,1,1
+459,Re(dmb)(CO)$_3$Cl,1.4,38,20,1,1
+463,"Re@TAPT-Bpy, dark catalysis",5.04,12.1,20,1,1
+464,"TAPT-Bpy, dark catalysis, Re added",1,38,20,1,1
+465,"TAPT-Bpy, dark catalysis, Re added",1,38,20,1,1
+466,"Re@TAPT-Bpy, dark catalysis, cycled",5.1,12.1,20,1,1
+467,Re@TAPT-Bpy COF,4.85,12.1,30,1.075,1.012
+469,Re@PTTA-Bpy COF,5.03,9.6,30,1.075,1.012
+470,Re@TAPB-Bpy COF,5.04,10.3,30,1.076,1.012
+471,Re(bpy)(CO)$_3$Cl,1.31,40.32,30,1.077,1.012
+472,Re(dmbpy)(CO)$_3$Cl,1.4,38,30,1.08,1.013
+474,Re@TAPT-Bpy COF in DMF,5.01,12.1,30,1.093,1.015
+475,Re(bpy)(CO)$_3$Cl,1.31,40.32,5,1.102,1.016
+477,Re(dmbpy)(CO)$_3$Cl,1.4,38,5,1.102,1.016
+479,"Re@TAPT-Bpy COF, 5 nccm",4.98,13.5,5,1.105,1.016
+480,Re@TAPT-Bpy COF in DMF,4.98,13.5,5,1.105,1.017
+484,"Re@TAPT-Bpy COF, 10 nccm",4.97,13.5,10,1.11,1.017
+485,Re@PTTA-Bpy COF,4.82,13,5,1.11,1.017
+486,Re@TAPB-Bpy COF,5,10.8,5,1.111,1.018
+487,"Re@TAPT-Bpy COF, labelled",4.99,13.2,5,1,1
+488,"Re@TAPT-Bpy COF, labelled",4.9,13.2,5,1,1
+489,"Re@TAPT-Bpy COF in DMF, labelled",4.99,13.5,5,1,1
+490,TAPT-Bpy COF,4.54,0,5,1,1
+491,"Re@T COF, no TEOA",4.94,12.1,5,1,1
+492,"Re@T COF, 360-580 nm",5.03,12.1,5,1,1
+493,"Re@T COF, >550 nm",5,12.1,5,1,1
