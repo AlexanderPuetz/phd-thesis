@@ -1,0 +1,11 @@
+net = hxl
+init_grade = 500000
+model = lennard_jones
+annealing = simulated_annealing
+size = [150, 100]
+runs = 10000000
+frames = 1000
+temp = 0.5
+levels = True
+colored = False
+video = True
