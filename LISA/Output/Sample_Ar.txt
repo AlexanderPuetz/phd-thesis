@@ -1,5 +1,5 @@
 =======================================
-     Analysis results for P_Ar.csv     
+  Analysis results for Sample_Ar.csv     
 =======================================
   Fitting set    6..23
   Fitting range  0.000408614...0.125692
