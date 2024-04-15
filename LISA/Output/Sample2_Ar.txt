@@ -3,7 +3,7 @@
 =============================================
   Min. set length      10
   Rouquerol criteria   Y Y Y Y 
-  Max. pressure error  20
+  Max. relative error  20
   Min. R2 value        0.98
   Limit to knee sets   No
 ---------------------------------------------
