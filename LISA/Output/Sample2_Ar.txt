@@ -11,8 +11,8 @@
 ---------------------------------------------
   Fitting set    2..22
   Fitting range  4.49964e-05...0.0998409
-  OLS slope      52.97 g mmol-1
-  OLS intercept  0.33 g mmol-1
+  OLS slope      52.97 g mol-1
+  OLS intercept  0.33 g mol-1
   R2 value       0.981016
 ---------------------------------------------
   C constant  161.69
